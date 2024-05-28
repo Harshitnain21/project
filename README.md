@@ -35,8 +35,6 @@ Run project with help of main.py after installing all required packages mentione
 
 # Contributor
 
-Ritesh kumar Chaurasia(CSE-2022) 1805210043 <br />
-Eshan Singh(CSE-2022) 1805210019 <br />
-Neelansh Pandey(CSE-2022) 1805210028 <br />
+Harshit Nain
 
 
